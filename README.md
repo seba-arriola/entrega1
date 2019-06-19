@@ -1,1 +1,3 @@
-# Primera entrega proyecto \n \n ## Sebastian Arriola
+# Primera entrega proyecto, aprendizaje automático bayesiano
+
+## Sebastian Arriola
